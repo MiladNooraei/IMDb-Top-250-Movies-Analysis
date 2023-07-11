@@ -33,19 +33,19 @@ First I cleaned data and then used MySQL and mysql.connector to create following
 
 This Phase has 3 parts : 
 1. Based on users input ->
-- Filtering by movies release year
-- Filtering by movies runtime
-- Filtering by movies stars
-- Filtering by movies genre
+  - Filtering by movies release year
+  - Filtering by movies runtime
+  - Filtering by movies stars
+  - Filtering by movies genre
 
 2. Static Plots ->
-- 10 most selling Movie
-- 5 most prolific actors
-- Number of Genres
-- Number of Parental Guide
-- Number of each Genre for each Parental Guide
+  - 10 most selling Movie
+  - 5 most prolific actors
+  - Number of Genres
+  - Number of Parental Guide
+  - Number of each Genre for each Parental Guide
 
 3. User Required Graph (Dynamic Plots) ->
-- Top 10 Selling based on input Genre
-- Word Cloud of Movies based on input Genre
+  - Top 10 Selling based on input Genre
+  - Word Cloud of Movies based on input Genre
 
